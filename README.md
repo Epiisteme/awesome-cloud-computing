@@ -13,6 +13,7 @@ Awesome Archive of Cloud Computing Concepts
 
 ## Design Patterns
 - Load Leveling Pattern
+- Throttling Pattern
 
 ### Load Leveling Pattern
 - Availability Pattern using Queues
